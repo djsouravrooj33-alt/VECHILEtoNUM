@@ -1,0 +1,12 @@
+{
+  "name": "vehicle-api",
+  "main": "worker.js",
+  "compatibility_date": "2026-08-02",
+
+  "kv_namespaces": [
+    {
+      "binding": "DB",
+      "id": "1145178a625747e3a7be0d3d25d20b0c"
+    }
+  ]
+}
